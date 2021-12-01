@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.atas {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 150px 0 auto;
+    flex-wrap: wrap;
+}
+
+.atas img {
+    width: 450px;
+}
+
+.bawah {
+    display: flex;
+    justify-content: space-around;
+    margin: 30px auto;
+    flex-wrap: wrap;
+}
+
+.bawah img {
+    width: 250px;
+    margin: 10px auto;
+}
